@@ -5,7 +5,7 @@ import Image from "next/image";
 const reviewers = [
   {
     name: "Ahmed Saad",
-    username: "@aya_manga",
+    username: "@ahmed_manga",
     review: "Absolutely love the manga collection! Fast shipping too.",
     image: "/head-shot-portrait-close-smiling-600nw-1714666150.webp",
   },
@@ -17,7 +17,7 @@ const reviewers = [
   },
   {
     name: "Ali Mahmoud",
-    username: "@lina_reads",
+    username: "@ali_reads",
     review: "Amazing service and collection. I’m hooked!",
     image: "/smiling-african-american-millennial-businessman-600nw-1437938108.webp",
   },
