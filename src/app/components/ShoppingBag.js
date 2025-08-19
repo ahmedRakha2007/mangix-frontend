@@ -49,7 +49,7 @@ const ShoppingBag = () => {
             </Link>
             {/* Product Info */}
             <div className='flex flex-col'>
-              <p className='text-sm text-secondary font-medium truncate'>{item.title}</p>
+              <p className='text-sm text-quaternary font-medium truncate'>{item.title}</p>
               <p className='text-sm text-tertiary font-semibold'>${item.price}</p>
             </div>
           </div>
